@@ -1,4 +1,6 @@
 les objets sont les suivants:
 Cours
 Etudiants
+Horaires,
+etc.
 
